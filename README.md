@@ -5,7 +5,7 @@ For a detailed description of technical details and experimental results, please
 
 Chenbin Ma, [Two-Stage Framework for Automatic Diagnosis of Multi-task in Essential Tremor via Multi-Sensory Fusion Parameters](https://doi.org/******), ****** **!!!** (2022) ******.
     
-    @article{Mehari:2021Self,
+    @article{Chenbin Ma:2021Self,
         doi = {=======},
         url = {=======},
         year = {2022},
